@@ -86,6 +86,10 @@
             <metal:bodytext define-slot="main">
 
               <header>
+                <!-- CURRICULUX TEST: This banner confirms our fork is working -->
+                <div style="background: #4472C4; color: white; padding: 10px; text-align: center; font-weight: bold;">
+                  🎓 CURRICULUX DEVELOPMENT VERSION - Fork is working! 🎓
+                </div>
 
                 <div id="viewlet-above-content-title" tal:content="structure provider:plone.abovecontenttitle" />
 
