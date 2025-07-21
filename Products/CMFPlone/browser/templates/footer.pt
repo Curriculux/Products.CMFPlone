@@ -8,6 +8,12 @@
 
   <div class="card card-classic" id="portal-footer-signature" metal:define-macro="portlet">
 
+    <!-- CURRICULUX CUSTOM FOOTER -->
+    <div class="card-body" style="background: #2c5aa0; color: white; text-align: center; padding: 20px; margin-bottom: 10px;">
+      <h3 style="margin: 0; font-size: 1.5em;">🎓 Curriculux Education Platform 🎓</h3>
+      <p style="margin: 10px 0 0 0;">Empowering science education with interactive lessons and collaborative learning</p>
+    </div>
+
     <div class="card-body">
       <span i18n:translate="description_copyright" tal:omit-tag="">
       The
